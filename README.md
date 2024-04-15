@@ -5,7 +5,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha REACT.
 </p>
 
 ## Projeto
-Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+Projeto simplificada de um sistema de check-in para eventos presenciais.
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
